@@ -33,7 +33,6 @@
   font-weight: 700;
   text-transform: uppercase;
   color: black;
-  font-size: x-large;
   padding: 2em;
 }
 .patrons-box img {
@@ -74,4 +73,24 @@
 }
 .patrons-box p {
   color: black;
+}
+.conference-committees{
+  background-color: #d0c9f9;
+}
+.conference-committees h1{
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-weight: 700;
+}
+.conference-committees h2{
+  text-align: center;
+  font-weight: 500;
+  font-size: x-large;
+  margin-bottom:0em ;
+}
+.conference-committees p{
+  text-align: center;
+  font-size: large;
 }
